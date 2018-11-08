@@ -1,0 +1,16 @@
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.DB.csprojAssemblyReference.cache
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.DB.csproj.CoreCompileInputs.cache
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\MovieStore.DB.dll.config
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\MovieStore.DB.dll
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\MovieStore.DB.pdb
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\EntityFramework.dll
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\EntityFramework.xml
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.DB.csproj.CopyComplete
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.DB.dll
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.DB.pdb
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\MovieStore.Business.dll
+C:\CC6\HW14\MovieStore\MovieStore.DB\bin\Debug\MovieStore.Business.pdb
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.Web.Migrations.InitialCreate.resources
+C:\CC6\HW14\MovieStore\MovieStore.DB\obj\Debug\MovieStore.DB.csproj.GenerateResource.cache

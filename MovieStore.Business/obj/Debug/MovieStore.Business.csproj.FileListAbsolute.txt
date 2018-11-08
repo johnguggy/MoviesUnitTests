@@ -1,0 +1,6 @@
+C:\CC6\HW14\MovieStore\MovieStore.Business\bin\Debug\MovieStore.Business.dll
+C:\CC6\HW14\MovieStore\MovieStore.Business\bin\Debug\MovieStore.Business.pdb
+C:\CC6\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.csproj.CoreCompileInputs.cache
+C:\CC6\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.dll
+C:\CC6\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.pdb
+C:\CC6\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.csprojAssemblyReference.cache
